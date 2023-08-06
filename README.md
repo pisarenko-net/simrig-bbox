@@ -21,8 +21,12 @@ Teensy-based multi-purpose simrig controller. Teensy 4.1 + Ethernet kit. Custom 
 
 Switch pin `12`, rotary pins: `8` and `9`.
 
-Currently unused.
+Tested. Currently unused.
 
 # Display
 
 I2C wide.hk OLED display. Currently does not work. Probably H/W issue.
+
+# Ethernet
+
+Use `Native Ethernet` library. Tested. Currently unused.
