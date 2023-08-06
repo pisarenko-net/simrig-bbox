@@ -12,14 +12,16 @@ Teensy-based multi-purpose simrig controller. Teensy 4.1 + Ethernet kit. Custom 
 
 `LOW` means on, `HIGH` means off.
 
- * 2
- * 3
- * 4
- * 5
+ * 2 (Fanatec DD1)
+ * 3 (Bass shaker system)
+ * 4 (Motion platform)
+ * 5 (Surround system)
 
 # Rotary encoder pins
 
 Switch pin `12`, rotary pins: `8` and `9`.
+
+Currently unused.
 
 # Display
 
